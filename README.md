@@ -1,3 +1,11 @@
+## Aperçu
+
+### Captures d'écran
+
+![Aperçu 1](Documentation/images/Screenshot1.png)
+
+![Aperçu 2](Documentation/images/Screenshot2.png)
+
 <a id="readme-top"></a>
 
 <br />
@@ -68,13 +76,6 @@ Connect'in est une plateforme sociale complète construite avec un backend robus
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Aperçu
-
-### Captures d'écran
-
-![Aperçu 1](Documentation/images/Screenshot1.png)
-
-![Aperçu 2](Documentation/images/Screenshot2.png)
 
 ### Database
 
